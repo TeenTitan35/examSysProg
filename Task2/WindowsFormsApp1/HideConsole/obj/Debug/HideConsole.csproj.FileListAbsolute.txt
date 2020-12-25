@@ -1,0 +1,6 @@
+C:\Users\adosp\Documents\reposvsmy\WindowsFormsApp1\HideConsole\bin\Debug\HideConsole.exe.config
+C:\Users\adosp\Documents\reposvsmy\WindowsFormsApp1\HideConsole\bin\Debug\HideConsole.exe
+C:\Users\adosp\Documents\reposvsmy\WindowsFormsApp1\HideConsole\bin\Debug\HideConsole.pdb
+C:\Users\adosp\Documents\reposvsmy\WindowsFormsApp1\HideConsole\obj\Debug\HideConsole.csproj.CoreCompileInputs.cache
+C:\Users\adosp\Documents\reposvsmy\WindowsFormsApp1\HideConsole\obj\Debug\HideConsole.exe
+C:\Users\adosp\Documents\reposvsmy\WindowsFormsApp1\HideConsole\obj\Debug\HideConsole.pdb

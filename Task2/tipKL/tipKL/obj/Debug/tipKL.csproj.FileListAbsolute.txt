@@ -1,0 +1,7 @@
+C:\Users\adosp\source\repos\tipKL\tipKL\bin\Debug\tipKL.exe.config
+C:\Users\adosp\source\repos\tipKL\tipKL\bin\Debug\tipKL.exe
+C:\Users\adosp\source\repos\tipKL\tipKL\bin\Debug\tipKL.pdb
+C:\Users\adosp\source\repos\tipKL\tipKL\obj\Debug\tipKL.csprojAssemblyReference.cache
+C:\Users\adosp\source\repos\tipKL\tipKL\obj\Debug\tipKL.csproj.CoreCompileInputs.cache
+C:\Users\adosp\source\repos\tipKL\tipKL\obj\Debug\tipKL.exe
+C:\Users\adosp\source\repos\tipKL\tipKL\obj\Debug\tipKL.pdb
